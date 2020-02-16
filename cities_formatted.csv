@@ -3,7 +3,7 @@ Albania,Tirana,Europe,"{'lat': 41.3275459, 'lng': 19.8186982}",Central European 
 Algeria,Algiers,Africa,"{'lat': 36.753768, 'lng': 3.0587561}",Central European Standard Time,3600
 Andorra,Andorra la Vella,Europe,"{'lat': 42.50631740000001, 'lng': 1.5218355}",Central European Standard Time,3600
 Angola,Luanda,Africa,"{'lat': -8.8146556, 'lng': 13.2301756}",West Africa Standard Time,3600
-Antigua and Barbuda,St. John's,America,"{'lat': 36.7451602, 'lng': -95.97999569999999}",Central Standard Time,-21600
+Antigua and Barbuda,St. John's,America,"{'lat': 17.1274104, 'lng': -61.84677199999999}",Atlantic Standard Time,-14400
 Argentina,Buenos Aires,America,"{'lat': -34.6036844, 'lng': -58.3815591}",Argentina Standard Time,-10800
 Armenia,Yerevan,Asia,"{'lat': 40.1872023, 'lng': 44.515209}",Armenia Standard Time,14400
 Australia,Canberra,Oceania,"{'lat': -35.2809368, 'lng': 149.1300092}",Australian Eastern Daylight Time,36000
@@ -18,7 +18,7 @@ Belgium,Brussels,Europe,"{'lat': 50.8503396, 'lng': 4.3517103}",Central European
 Belize,Belmopan,America,"{'lat': 17.2510114, 'lng': -88.7590201}",Central Standard Time,-21600
 Benin,Porto Novo,Africa,"{'lat': 6.4968574, 'lng': 2.6288523}",West Africa Standard Time,3600
 Bhutan,Thimphu,Asia,"{'lat': 27.4712216, 'lng': 89.6339041}",Bhutan Time,21600
-Bolivia,Sucre,America,"{'lat': 33.057553, 'lng': -96.68915899999999}",Central Standard Time,-21600
+Bolivia,Sucre,America,"{'lat': -19.035345, 'lng': -65.2592128}",Bolivia Time,-14400
 Bosnia and Herzegovina,Sarajevo,Europe,"{'lat': 43.8562586, 'lng': 18.4130763}",Central European Standard Time,3600
 Botswana,Gaborone,Africa,"{'lat': -24.6282079, 'lng': 25.9231471}",Central Africa Time,7200
 Brazil,Brasilia,America,"{'lat': -15.826691, 'lng': -47.92182039999999}",Brasilia Standard Time,-10800
@@ -35,8 +35,8 @@ Chad,N'Djamena,Africa,"{'lat': 12.1348457, 'lng': 15.0557415}",West Africa Stand
 Chile,Santiago,America,"{'lat': -33.4488897, 'lng': -70.6692655}",Chile Summer Time,-14400
 China,Beijing,Asia,"{'lat': 39.90419989999999, 'lng': 116.4073963}",China Standard Time,28800
 Colombia,Bogota,America,"{'lat': 4.710988599999999, 'lng': -74.072092}",Colombia Standard Time,-18000
-Comoros,Moroni,Africa,"{'lat': 39.5249615, 'lng': -111.5904725}",Mountain Standard Time,-25200
-Costa Rica,San José,America,"{'lat': 37.3382082, 'lng': -121.8863286}",Pacific Standard Time,-28800
+Comoros,Moroni,Africa,"{'lat': -11.7172157, 'lng': 43.2473146}",East Africa Time,10800
+Costa Rica,San José,America,"{'lat': 9.9280694, 'lng': -84.0907246}",Central Standard Time,-21600
 Croatia,Zagreb,Europe,"{'lat': 45.8150108, 'lng': 15.9819189}",Central European Standard Time,3600
 Cuba,Havana,America,"{'lat': 23.1135925, 'lng': -82.3665956}",Cuba Standard Time,-18000
 Cyprus,Nicosia,Europe,"{'lat': 35.1855659, 'lng': 33.38227639999999}",Eastern European Standard Time,7200
@@ -44,7 +44,7 @@ Czech Republic,Prague,Europe,"{'lat': 50.0755381, 'lng': 14.4378005}",Central Eu
 Democratic Republic of Congo,Kinshasa,Africa,"{'lat': -4.4419311, 'lng': 15.2662931}",West Africa Standard Time,3600
 Denmark,Copenagen,Europe,"{'lat': 55.6760968, 'lng': 12.5683372}",Central European Standard Time,3600
 Djibouti,Djibouti,Africa,"{'lat': 11.825138, 'lng': 42.590275}",East Africa Time,10800
-Dominica,Roseau,America,"{'lat': 48.8460926, 'lng': -95.762766}",Central Standard Time,-21600
+Dominica,Roseau,America,"{'lat': 15.3091676, 'lng': -61.37935539999999}",Atlantic Standard Time,-14400
 Dominican Republic,Santo Domingo,America,"{'lat': 18.4860575, 'lng': -69.93121169999999}",Atlantic Standard Time,-14400
 East Timor,Dili,Oceania,"{'lat': -8.5568557, 'lng': 125.5603143}",East Timor Time,32400
 Ecuador,Quito,America,"{'lat': -0.1806532, 'lng': -78.4678382}",Ecuador Time,-18000
@@ -63,11 +63,11 @@ Georgia,Tbilisi,Asia,"{'lat': 41.7151377, 'lng': 44.827096}",Georgia Standard Ti
 Germany,Berlin,Europe,"{'lat': 52.52000659999999, 'lng': 13.404954}",Central European Standard Time,3600
 Ghana,Accra,Africa,"{'lat': 5.6037168, 'lng': -0.1869644}",Greenwich Mean Time,0
 Greece,Athens,Europe,"{'lat': 37.9838096, 'lng': 23.7275388}",Eastern European Standard Time,7200
-Grenada,St. George's,America,"{'lat': 41.4909882, 'lng': -71.2731677}",Eastern Standard Time,-18000
+Grenada,St. George's,America,"{'lat': 12.0560975, 'lng': -61.7487996}",Atlantic Standard Time,-14400
 Guatemala,Guatemala City,America,"{'lat': 14.6349149, 'lng': -90.5068824}",Central Standard Time,-21600
 Guinea,Conakry,Africa,"{'lat': 9.641185499999999, 'lng': -13.5784012}",Greenwich Mean Time,0
 Guinea-Bissau,Bissau,Africa,"{'lat': 11.8632196, 'lng': -15.5843227}",Greenwich Mean Time,0
-Guyana,Georgetown,America,"{'lat': 38.9076089, 'lng': -77.07225849999999}",Eastern Standard Time,-18000
+Guyana,Georgetown,America,"{'lat': 6.8012793, 'lng': -58.1551255}",Guyana Time,-14400
 Haiti,Port-au-Prince,America,"{'lat': 18.594395, 'lng': -72.3074326}",Eastern Standard Time,-18000
 Honduras,Tegucigalpa,America,"{'lat': 14.065049, 'lng': -87.1715002}",Central Standard Time,-21600
 Hungary,Budapest,Europe,"{'lat': 47.497912, 'lng': 19.040235}",Central European Standard Time,3600
@@ -78,10 +78,10 @@ Iran,Tehran,Asia,"{'lat': 35.6891975, 'lng': 51.3889736}",Iran Standard Time,126
 Iraq,Baghdad,Asia,"{'lat': 33.315241, 'lng': 44.3660671}",Arabian Standard Time,10800
 Ireland,Dublin,Europe,"{'lat': 53.3498053, 'lng': -6.2603097}",Greenwich Mean Time,0
 Israel,Jerusalem,Asia,"{'lat': 31.768319, 'lng': 35.21371}",Israel Standard Time,7200
-Italy,Italian,Europe,"{'lat': 36.9852361, 'lng': -95.625472}",Central Standard Time,-21600
+Italy,Roma,Europe,"{'lat': 41.9027835, 'lng': 12.4963655}",Central European Standard Time,3600
 Ivory Coast,Yamoussoukro,Africa,"{'lat': 6.827622799999999, 'lng': -5.2893433}",Greenwich Mean Time,0
-Jamaica,Kingston,America,"{'lat': 41.9270367, 'lng': -73.9973608}",Eastern Standard Time,-18000
-Japan,Tokyo,Asia,"{'lat': 35.6803997, 'lng': 139.7690174}",Japan Standard Time,32400
+Jamaica,Kingston,America,"{'lat': 18.0178743, 'lng': -76.8099041}",Eastern Standard Time,-18000
+Japan,Tokyo,Asia,"{'lat': 35.6761919, 'lng': 139.6503106}",Japan Standard Time,32400
 Jordan,Amman,Asia,"{'lat': 31.9539494, 'lng': 35.910635}",Eastern European Standard Time,7200
 Kazakhstan,Astana,Asia,"{'lat': 51.16052269999999, 'lng': 71.4703558}",East Kazakhstan Time,21600
 Kenya,Nairobi,Africa,"{'lat': -1.2920659, 'lng': 36.8219462}",East Africa Time,10800
@@ -95,11 +95,11 @@ Laos,Vientiane,Asia,"{'lat': 17.9757058, 'lng': 102.6331035}",Indochina Time,252
 Latvia,Riga,Europe,"{'lat': 56.9496487, 'lng': 24.1051865}",Eastern European Standard Time,7200
 Lebanon,Beirut,Asia,"{'lat': 33.8937913, 'lng': 35.5017767}",Eastern European Standard Time,7200
 Lesotho,Maseru,Africa,"{'lat': -29.3150767, 'lng': 27.4869229}",South Africa Standard Time,7200
-Liberia,Monrovia,Africa,"{'lat': 34.1442616, 'lng': -118.0019482}",Pacific Standard Time,-28800
+Liberia,Monrovia,Africa,"{'lat': 6.3156068, 'lng': -10.8073698}",Greenwich Mean Time,0
 Libya,Tripoli,Africa,"{'lat': 32.8872094, 'lng': 13.1913383}",Eastern European Standard Time,7200
 Liechtenstein,Vaduz,Europe,"{'lat': 47.1410303, 'lng': 9.5209277}",Central European Standard Time,3600
 Lithuania,Vilnius,Europe,"{'lat': 54.6871555, 'lng': 25.2796514}",Eastern European Standard Time,7200
-Luxembourg,Luxembourg,Europe,"{'lat': 49.815273, 'lng': 6.129582999999999}",Central European Standard Time,3600
+Luxembourg,Luxembourg,Europe,"{'lat': 49.61162100000001, 'lng': 6.1319346}",Central European Standard Time,3600
 Macedonia,Skopje,Europe,"{'lat': 42.0050274, 'lng': 21.4407659}",Central European Standard Time,3600
 Madagascar,Antananarivo,Africa,"{'lat': -18.8791902, 'lng': 47.5079055}",East Africa Time,10800
 Malawi,Lilongwe,Africa,"{'lat': -13.9626121, 'lng': 33.7741195}",Central Africa Time,7200
@@ -131,8 +131,7 @@ Norway,Oslo,Europe,"{'lat': 59.9138688, 'lng': 10.7522454}",Central European Sta
 Oman,Muscat,Asia,"{'lat': 23.5880307, 'lng': 58.3828717}",Gulf Standard Time,14400
 Pakistan,Islamabad,Asia,"{'lat': 33.6844202, 'lng': 73.04788479999999}",Pakistan Standard Time,18000
 Palau,Melekeok,Oceania,"{'lat': 7.515028599999999, 'lng': 134.5972518}",Palau Time,32400
-Palestine,East Jerusalem,Asia,"{'lat': 31.768319, 'lng': 35.21371}",Israel Standard Time,7200
-Panama,Panama City,America,"{'lat': 30.1588129, 'lng': -85.6602058}",Central Standard Time,-21600
+Panama,Panama City,America,"{'lat': 8.9823792, 'lng': -79.51986959999999}",Eastern Standard Time,-18000
 Papua New Guinea,Port Moresby,Oceania,"{'lat': -9.443800399999999, 'lng': 147.1802671}",Papua New Guinea Time,36000
 Paraguay,Asunción,America,"{'lat': -25.2637399, 'lng': -57.57592599999999}",Paraguay Summer Time,-14400
 Peru,Lima,America,"{'lat': -12.0463731, 'lng': -77.042754}",Peru Standard Time,-18000
@@ -148,12 +147,12 @@ Saint Kitts and Nevis,Basseterre,America,"{'lat': 17.3026058, 'lng': -62.7176924
 Saint Lucia,Castries,America,"{'lat': 14.0101094, 'lng': -60.98746869999999}",Atlantic Standard Time,-14400
 Saint Vincent and the Grenadines,Kingstown,America,"{'lat': 13.1600249, 'lng': -61.2248157}",Atlantic Standard Time,-14400
 Samoa,Apia,Oceania,"{'lat': -13.8506958, 'lng': -171.7513551}",Apia Daylight Time,46800
-San Marino,San Marino,Europe,"{'lat': 43.94236, 'lng': 12.457777}",Central European Standard Time,3600
+San Marino,San Marino,Europe,"{'lat': 43.9355907, 'lng': 12.4472806}",Central European Standard Time,3600
 Sao Tomé and Príncipe,Sao Tomé,Africa,"{'lat': 0.3301924, 'lng': 6.733343}",Greenwich Mean Time,0
 Saudi Arabia,Riyadh,Asia,"{'lat': 24.7135517, 'lng': 46.6752957}",Arabian Standard Time,10800
 Senegal,Dakar,Africa,"{'lat': 14.716677, 'lng': -17.4676861}",Greenwich Mean Time,0
 Serbia,Belgrade,Europe,"{'lat': 44.786568, 'lng': 20.4489216}",Central European Standard Time,3600
-Seychelles,Victoria,Africa,"{'lat': 28.8052674, 'lng': -97.0035982}",Central Standard Time,-21600
+Seychelles,Victoria,Africa,"{'lat': -4.619143, 'lng': 55.4513149}",Seychelles Time,14400
 Sierra Leone,Freetown,Africa,"{'lat': 8.4656765, 'lng': -13.2317225}",Greenwich Mean Time,0
 Singapore,Singapore,Asia,"{'lat': 1.352083, 'lng': 103.819836}",Singapore Standard Time,28800
 Slovakia,Bratislava,Europe,"{'lat': 48.1485965, 'lng': 17.1077478}",Central European Standard Time,3600
@@ -195,7 +194,7 @@ Vietnam,Hanoi,Asia,"{'lat': 21.0277644, 'lng': 105.8341598}",Indochina Time,2520
 Yemen,Sana'a,Asia,"{'lat': 15.3694451, 'lng': 44.1910066}",Arabian Standard Time,10800
 Zambia,Lusaka,Africa,"{'lat': -15.3875259, 'lng': 28.3228165}",Central Africa Time,7200
 Zimbabwe,Harare,Africa,"{'lat': -17.8251657, 'lng': 31.03351}",Central Africa Time,7200
-Brazil,Recife,America,"{'lat': -8.0522404, 'lng': -34.9286096}",Brasilia Standard Time,-10800
+Brazil,Recife,America,"{'lat': -8.0578381, 'lng': -34.8828969}",Brasilia Standard Time,-10800
 New Zealand,Auckland,Oceania,"{'lat': -36.8484597, 'lng': 174.7633315}",New Zealand Daylight Time,43200
 Spain,Herrera del Duque,Europe,"{'lat': 39.1686078, 'lng': -5.050761200000001}",Central European Standard Time,3600
 Spain,Zamora,Europe,"{'lat': 41.5034712, 'lng': -5.7467879}",Central European Standard Time,3600
