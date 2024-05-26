@@ -169,3 +169,16 @@ class Gallo:
             self.enviar_tweet('anochece',ciudad,hora,nueva_hora,path)
             
         return
+
+
+if __name__ == "__main__":
+    fichero='cities.csv'
+    fichero_formateado_corto='cities_formatted.csv'
+    fichero_formateado_largo = 'cities_long_formatted.csv'
+    #path_proyecto = '/Users/mharias/documents/proyectos/gallo_aurora/'
+    path_proyecto = '/home/waly00/gallo_aurora/'
+    gallo=Gallo(google_key,path_proyecto,token_elgalloaurora, apikey, apisecretkey, AccessToken,AccessTokenSecret)
+    gallo.ciudades = gallo.load_cities_formatted(fichero_formateado_corto
+    gallo.s = sched.scheduler(time.time,time.sleep)
+    gallo.inicia_schedule()
+    gallo.run()
