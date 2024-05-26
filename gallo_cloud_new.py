@@ -8,7 +8,6 @@ from datetime import datetime,timedelta
 import calendar
 from pytz import timezone
 import googlemaps
-%matplotlib inline
 import pandas as pd
 import sys
 import tweepy
