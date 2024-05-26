@@ -12,7 +12,7 @@ import pandas as pd
 import sys
 import tweepy
 
-sys.path.append("/Users/mharias/documents/proyectos/mylibs") # directorio de acceso a librerías auxiliares
+#sys.path.append("/Users/mharias/documents/proyectos/mylibs") # directorio de acceso a librerías auxiliares
 sys.path.append("/home/waly/claves") # directorio de acceso a librerías auxiliares
 
 from pass_elgallo import token_elgalloaurora,apikey,apisecretkey,AccessToken,AccessTokenSecret,google_key
