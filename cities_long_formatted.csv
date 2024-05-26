@@ -1,0 +1,215 @@
+Ciudad,Pais,Continente,longitud,latitud,dstOffset,rawOffset,timeZoneId,timeZoneName
+Kabul,Afghanistan,Asia,69.207486,34.5553494,0,16200,Asia/Kabul,Afghanistan Time
+Tirana,Albania,Europe,19.8186982,41.3275459,3600,3600,Europe/Tirane,Central European Summer Time
+Algiers,Algeria,Africa,3.0587561,36.753768,0,3600,Africa/Algiers,Central European Standard Time
+Andorra la Vella,Andorra,Europe,1.5218355,42.50631740000001,3600,3600,Europe/Andorra,Central European Summer Time
+Luanda,Angola,Africa,13.2301756,-8.8146556,0,3600,Africa/Luanda,West Africa Standard Time
+St. John's,Antigua and Barbuda,America,-61.84677199999999,17.1274104,0,-14400,America/Antigua,Atlantic Standard Time
+Buenos Aires,Argentina,America,-58.3815591,-34.6036844,0,-10800,America/Buenos_Aires,Argentina Standard Time
+Yerevan,Armenia,Asia,44.515209,40.1872023,0,14400,Asia/Yerevan,Armenia Standard Time
+Canberra,Australia,Oceania,149.1310324,-35.2801846,0,36000,Australia/Sydney,Australian Eastern Standard Time
+Vienna,Austria,Europe,16.3713095,48.20806959999999,3600,3600,Europe/Vienna,Central European Summer Time
+Baku,Azerbaijan,Asia,49.8670924,40.40926169999999,0,14400,Asia/Baku,Azerbaijan Standard Time
+Nassau,Bahamas,America,-77.3503609,25.0443312,3600,-18000,America/Nassau,Eastern Daylight Time
+Manama,Bahrain,Asia,50.5875935,26.2235305,0,10800,Asia/Bahrain,Arabian Standard Time
+Dhaka,Bangladesh,Asia,90.4152376,23.804093,0,21600,Asia/Dhaka,Bangladesh Standard Time
+Bridgetown,Barbados,America,-59.6132388,13.0971177,0,-14400,America/Barbados,Atlantic Standard Time
+Minsk,Belarus,Europe,27.558972,53.9006011,0,10800,Europe/Minsk,Moscow Standard Time
+Brussels,Belgium,Europe,4.3571696,50.8476424,3600,3600,Europe/Brussels,Central European Summer Time
+Belmopan,Belize,America,-88.7590201,17.2510114,0,-21600,America/Belize,Central Standard Time
+Porto Novo,Benin,Africa,2.6203212,6.478623799999999,0,3600,Africa/Porto-Novo,West Africa Standard Time
+Thimphu,Bhutan,Asia,89.6386108,27.471586,0,21600,Asia/Thimphu,Bhutan Time
+Sucre,Bolivia,America,-65.2592128,-19.035345,0,-14400,America/La_Paz,Bolivia Time
+Sarajevo,Bosnia and Herzegovina,Europe,18.4130763,43.8562586,3600,3600,Europe/Sarajevo,Central European Summer Time
+Gaborone,Botswana,Africa,25.9077037,-24.6580003,0,7200,Africa/Gaborone,Central Africa Time
+Brasilia,Brazil,America,-47.89188739999999,-15.7975154,0,-10800,America/Sao_Paulo,Brasilia Standard Time
+Bandar Seri Begawan,Brunei,Asia,114.9419021,4.8923413,0,28800,Asia/Brunei,Brunei Darussalam Time
+Sofia,Bulgaria,Europe,23.3218675,42.6977082,3600,7200,Europe/Sofia,Eastern European Summer Time
+Ouagadougou,Burkina Faso,Africa,-1.5196603,12.3714277,0,0,Africa/Ouagadougou,Greenwich Mean Time
+Bujumbura,Burundi,Africa,29.3598782,-3.361378,0,7200,Africa/Bujumbura,Central Africa Time
+Phnom Penh,Cambodia,Asia,104.9282099,11.5563738,0,25200,Asia/Phnom_Penh,Indochina Time
+Yaoundé,Cameroon,Africa,11.5202292,3.8616853,0,3600,Africa/Douala,West Africa Standard Time
+Ottawa,Canada,America,-75.7003397,45.4200572,3600,-18000,America/Toronto,Eastern Daylight Time
+Praia,Cape Verde,Africa,-23.5073437,14.919775,0,-3600,Atlantic/Cape_Verde,Cape Verde Standard Time
+Bangui,Central African Republic,Africa,18.5827765,4.362156,0,3600,Africa/Bangui,West Africa Standard Time
+N'Djamena,Chad,Africa,15.0502875,12.1191352,0,3600,Africa/Ndjamena,West Africa Standard Time
+Santiago,Chile,America,-70.6692655,-33.4488897,0,-14400,America/Santiago,Chile Standard Time
+Beijing,China,Asia,116.407395,39.904211,0,28800,Asia/Shanghai,China Standard Time
+Bogota,Colombia,America,-74.072092,4.710988599999999,0,-18000,America/Bogota,Colombia Standard Time
+Moroni,Comoros,Africa,43.2517012,-11.7061223,0,10800,Indian/Comoro,East Africa Time
+San José,Costa Rica,America,-84.0907246,9.9280694,0,-21600,America/Costa_Rica,Central Standard Time
+Zagreb,Croatia,Europe,15.981919,45.8150108,3600,3600,Europe/Zagreb,Central European Summer Time
+Havana,Cuba,America,-82.3665956,23.1135925,3600,-18000,America/Havana,Cuba Daylight Time
+Nicosia,Cyprus,Europe,33.38227639999999,35.1855659,3600,7200,Asia/Nicosia,Eastern European Summer Time
+Prague,Czech Republic,Europe,14.4378005,50.0755381,3600,3600,Europe/Prague,Central European Summer Time
+Kinshasa,Democratic Republic of Congo,Africa,15.310528,-4.3032527,0,3600,Africa/Kinshasa,West Africa Standard Time
+Copenagen,Denmark,Europe,12.5683371,55.6760968,3600,3600,Europe/Copenhagen,Central European Summer Time
+Djibouti,Djibouti,Africa,42.590275,11.825138,0,10800,Africa/Djibouti,East Africa Time
+Roseau,Dominica,America,-61.37935539999999,15.3091676,0,-14400,America/Dominica,Atlantic Standard Time
+Santo Domingo,Dominican Republic,America,-69.93609239999999,18.4626178,0,-14400,America/Santo_Domingo,Atlantic Standard Time
+Dili,East Timor,Oceania,125.5798233,-8.5563336,0,32400,Asia/Dili,East Timor Time
+Quito,Ecuador,America,-78.4678382,-0.1806532,0,-18000,America/Guayaquil,Ecuador Time
+Cairo,Egypt,Africa,31.2357116,30.0444196,3600,7200,Africa/Cairo,Eastern European Summer Time
+San Salvador,El Salvador,America,-89.2181911,13.6929403,0,-21600,America/El_Salvador,Central Standard Time
+Malabo,Equatorial Guinea,Africa,8.7821344,3.7549606,0,3600,Africa/Malabo,West Africa Standard Time
+Asmara,Eritrea,Africa,38.9300394,15.3317304,0,10800,Africa/Asmera,East Africa Time
+Tallinn,Estonia,Europe,24.7535746,59.43696079999999,3600,7200,Europe/Tallinn,Eastern European Summer Time
+Addis Ababa,Ethiopia,Africa,38.7524635,9.0191936,0,10800,Africa/Addis_Ababa,East Africa Time
+Suva,Fiji,Oceania,178.4232507,-18.1405049,0,43200,Pacific/Fiji,Fiji Standard Time
+Helsinki,Finland,Europe,24.938379,60.16985569999999,3600,7200,Europe/Helsinki,Eastern European Summer Time
+Paris,France,Europe,2.3513765,48.8575475,3600,3600,Europe/Paris,Central European Summer Time
+Libreville,Gabon,Africa,9.440283299999999,0.4077972,0,3600,Africa/Libreville,West Africa Standard Time
+Banjul,Gambia,Africa,-16.5753186,13.454375,0,0,Africa/Banjul,Greenwich Mean Time
+Tbilisi,Georgia,Asia,44.80151679999999,41.6938026,0,14400,Asia/Tbilisi,Georgia Standard Time
+Berlin,Germany,Europe,13.404954,52.52000659999999,3600,3600,Europe/Berlin,Central European Summer Time
+Accra,Ghana,Africa,-0.1974306,5.559284600000001,0,0,Africa/Accra,Greenwich Mean Time
+Athens,Greece,Europe,23.7275388,37.9838096,3600,7200,Europe/Athens,Eastern European Summer Time
+St. George's,Grenada,America,-61.7487996,12.0560975,0,-14400,America/Grenada,Atlantic Standard Time
+Guatemala City,Guatemala,America,-90.5068824,14.6349149,0,-21600,America/Guatemala,Central Standard Time
+Conakry,Guinea,Africa,-13.7119312,9.5090945,0,0,Africa/Conakry,Greenwich Mean Time
+Bissau,Guinea-Bissau,Africa,-15.180413,11.803749,0,0,Africa/Bissau,Greenwich Mean Time
+Georgetown,Guyana,America,-58.1551255,6.8012793,0,-14400,America/Guyana,Guyana Time
+Port-au-Prince,Haiti,America,-72.3074326,18.594395,3600,-18000,America/Port-au-Prince,Eastern Daylight Time
+Tegucigalpa,Honduras,America,-87.1715002,14.065049,0,-21600,America/Tegucigalpa,Central Standard Time
+Budapest,Hungary,Europe,19.040235,47.497912,3600,3600,Europe/Budapest,Central European Summer Time
+Reykjavik,Iceland,Europe,-21.9407552,64.1469868,0,0,Atlantic/Reykjavik,Greenwich Mean Time
+New Delhi,India,Asia,77.2088282,28.6139298,0,19800,Asia/Calcutta,India Standard Time
+Jakarta,Indonesia,Asia,106.8229198,-6.1944491,0,25200,Asia/Jakarta,Western Indonesia Time
+Tehran,Iran,Asia,51.3346954,35.7218583,0,12600,Asia/Tehran,Iran Standard Time
+Baghdad,Iraq,Asia,44.3660671,33.315241,0,10800,Asia/Baghdad,Arabian Standard Time
+Dublin,Ireland,Europe,-6.2603097,53.3498053,3600,0,Europe/Dublin,Irish Standard Time
+Jerusalem,Israel,Asia,35.21371,31.768319,3600,7200,Asia/Jerusalem,Israel Daylight Time
+Roma,Italy,Europe,12.4822025,41.8967068,3600,3600,Europe/Rome,Central European Summer Time
+Yamoussoukro,Ivory Coast,Africa,-5.274362900000001,6.816274099999999,0,0,Africa/Abidjan,Greenwich Mean Time
+Kingston,Jamaica,America,-76.8099041,18.0178743,0,-18000,America/Jamaica,Eastern Standard Time
+Tokyo,Japan,Asia,139.650027,35.6764225,0,32400,Asia/Tokyo,Japan Standard Time
+Amman,Jordan,Asia,35.9105776,31.9543786,0,10800,Asia/Amman,GMT+03:00
+Astana,Kazakhstan,Asia,71.4272222,51.1655126,0,18000,Asia/Almaty,West Kazakhstan Time
+Nairobi,Kenya,Africa,36.8219462,-1.2920659,0,10800,Africa/Nairobi,East Africa Time
+Tarawa,Kiribati,Oceania,172.9716617,1.4518171,0,43200,Pacific/Tarawa,Gilbert Islands Time
+Pyongyang,Korea North,Asia,125.7625241,39.0392193,0,32400,Asia/Pyongyang,Korean Standard Time
+Seoul,Korea South,Asia,126.9917937,37.5518911,0,32400,Asia/Seoul,Korean Standard Time
+Pristina,Kosovo,Europe,21.1655028,42.6629138,3600,3600,Europe/Belgrade,Central European Summer Time
+Kuwait City,Kuwait,Asia,47.9774052,29.375859,0,10800,Asia/Kuwait,Arabian Standard Time
+Bishkek,Kyrgyzstan,Asia,74.5697617,42.8746212,0,21600,Asia/Bishkek,Kyrgyzstan Time
+Vientiane,Laos,Asia,102.6331035,17.9757058,0,25200,Asia/Vientiane,Indochina Time
+Riga,Latvia,Europe,24.1056221,56.9676941,3600,7200,Europe/Riga,Eastern European Summer Time
+Beirut,Lebanon,Asia,35.5017767,33.8937913,3600,7200,Asia/Beirut,Eastern European Summer Time
+Maseru,Lesotho,Africa,27.4869229,-29.3150767,0,7200,Africa/Maseru,South Africa Standard Time
+Monrovia,Liberia,Africa,-10.8073698,6.3156068,0,0,Africa/Monrovia,Greenwich Mean Time
+Tripoli,Libya,Africa,13.187186,32.8877109,0,7200,Africa/Tripoli,Eastern European Standard Time
+Vaduz,Liechtenstein,Europe,9.5210732,47.1410843,3600,3600,Europe/Vaduz,Central European Summer Time
+Vilnius,Lithuania,Europe,25.2796514,54.6871555,3600,7200,Europe/Vilnius,Eastern European Summer Time
+Luxembourg,Luxembourg,Europe,6.129582999999999,49.815273,3600,3600,Europe/Luxembourg,Central European Summer Time
+Skopje,Macedonia,Europe,21.4254355,41.9981294,3600,3600,Europe/Skopje,Central European Summer Time
+Antananarivo,Madagascar,Africa,47.5211293,-18.9184607,0,10800,Indian/Antananarivo,East Africa Time
+Lilongwe,Malawi,Africa,33.76806,-13.9865252,0,7200,Africa/Blantyre,Central Africa Time
+Kuala Lumpur,Malaysia,Asia,101.6840589,3.1319197,0,28800,Asia/Kuala_Lumpur,Malaysia Time
+Malé,Maldives,Asia,73.50911719999999,4.175270900000001,0,18000,Indian/Maldives,Maldives Time
+Bamako,Mali,Africa,-8.0028892,12.6392316,0,0,Africa/Bamako,Greenwich Mean Time
+Valletta,Malta,Europe,14.5140996,35.8992375,3600,3600,Europe/Malta,Central European Summer Time
+Majuro,Marshall Islands,Oceania,171.266667,7.066667,0,43200,Pacific/Majuro,Marshall Islands Time
+Nouakchott,Mauritania,Africa,-15.9582372,18.0735299,0,0,Africa/Nouakchott,Greenwich Mean Time
+Port Louis,Mauritius,Africa,57.5012222,-20.1608912,0,14400,Indian/Mauritius,Mauritius Standard Time
+Mexico City,Mexico,America,-99.133208,19.4326077,0,-21600,America/Mexico_City,Central Standard Time
+Palikir,Micronesia,Oceania,158.1598666,6.9234629,0,39600,Pacific/Ponape,Ponape Time
+Chisinau,Moldova,Europe,28.8638103,47.0104529,3600,7200,Europe/Chisinau,Eastern European Summer Time
+Monaco,Monaco,Europe,7.424615799999999,43.73841760000001,3600,3600,Europe/Monaco,Central European Summer Time
+Ulaanbaatar,Mongolia,Asia,106.9155007,47.9220509,0,28800,Asia/Ulaanbaatar,Ulaanbaatar Standard Time
+Podgorica,Montenegro,Europe,19.2593642,42.4304196,3600,3600,Europe/Podgorica,Central European Summer Time
+Rabat,Morocco,Africa,-6.8538748,34.0083637,3600,0,Africa/Casablanca,GMT+01:00
+Maputo,Mozambique,Africa,32.5731746,-25.969248,0,7200,Africa/Maputo,Central Africa Time
+Naypyidaw,Myanmar,Asia,96.07851040000001,19.7633057,0,23400,Asia/Rangoon,Myanmar Time
+Windhoek,Namibia,Africa,17.0842147,-22.5649344,0,7200,Africa/Windhoek,Central Africa Time
+Yaren,Nauru,Oceania,166.9156781,-0.5455672,0,43200,Pacific/Nauru,Nauru Time
+Kathmandu,Nepal,Asia,85.3239605,27.7172453,0,20700,Asia/Katmandu,Nepal Time
+Amsterdam,Netherlands,Europe,4.9041389,52.3675734,3600,3600,Europe/Amsterdam,Central European Summer Time
+Wellington,New Zealand,Oceania,174.7787463,-41.2923814,0,43200,Pacific/Auckland,New Zealand Standard Time
+Managua,Nicaragua,America,-86.2361744,12.1149926,0,-21600,America/Managua,Central Standard Time
+Niamey,Niger,Africa,2.1253854,13.5115963,0,3600,Africa/Niamey,West Africa Standard Time
+Abuja,Nigeria,Africa,7.4985259,9.0562646,0,3600,Africa/Lagos,West Africa Standard Time
+Oslo,Norway,Europe,10.7522454,59.9138688,3600,3600,Europe/Oslo,Central European Summer Time
+Muscat,Oman,Asia,58.3828717,23.5880307,0,14400,Asia/Muscat,Gulf Standard Time
+Islamabad,Pakistan,Asia,73.0362897,33.6995086,0,18000,Asia/Karachi,Pakistan Standard Time
+Melekeok,Palau,Oceania,134.5972518,7.515028599999999,0,32400,Pacific/Palau,Palau Time
+Panama City,Panama,America,-79.51986959999999,8.9823792,0,-18000,America/Panama,Eastern Standard Time
+Port Moresby,Papua New Guinea,Oceania,147.1494164,-9.4790043,0,36000,Pacific/Port_Moresby,Papua New Guinea Time
+Asunción,Paraguay,America,-57.57592599999999,-25.2637399,0,-14400,America/Asuncion,Paraguay Standard Time
+Lima,Peru,America,-77.04308859999999,-12.0466888,0,-18000,America/Lima,Peru Standard Time
+Manila,Philippines,Asia,120.9842195,14.5995124,0,28800,Asia/Manila,Philippine Standard Time
+Warsaw,Poland,Europe,21.0122287,52.2296756,3600,3600,Europe/Warsaw,Central European Summer Time
+Lisbon,Portugal,Europe,-9.1393366,38.7222524,3600,0,Europe/Lisbon,Western European Summer Time
+Doha,Qatar,Asia,51.53103979999999,25.2854473,0,10800,Asia/Qatar,Arabian Standard Time
+Brazzaville,Republic of the Congo,Africa,15.2812803,-4.2744405,0,3600,Africa/Brazzaville,West Africa Standard Time
+Bucharest,Romania,Europe,26.1025384,44.4267674,3600,7200,Europe/Bucharest,Eastern European Summer Time
+Moscow,Russia,Europe,37.6173,55.755826,0,10800,Europe/Moscow,Moscow Standard Time
+Kigali,Rwanda,Africa,30.0618851,-1.9440727,0,7200,Africa/Kigali,Central Africa Time
+Basseterre,Saint Kitts and Nevis,America,-62.7176924,17.3026058,0,-14400,America/St_Kitts,Atlantic Standard Time
+Castries,Saint Lucia,America,-60.98972389999999,14.0110158,0,-14400,America/St_Lucia,Atlantic Standard Time
+Kingstown,Saint Vincent and the Grenadines,America,-61.2248157,13.1600249,0,-14400,America/St_Vincent,Atlantic Standard Time
+Apia,Samoa,Oceania,-171.7689086,-13.831609,0,46800,Pacific/Apia,Apia Standard Time
+San Marino,San Marino,Europe,12.44379,43.9305658,3600,3600,Europe/San_Marino,Central European Summer Time
+Sao Tomé,Sao Tomé and Príncipe,Africa,6.7298686,0.3375532,0,0,Africa/Sao_Tome,Greenwich Mean Time
+Riyadh,Saudi Arabia,Asia,46.6752957,24.7135517,0,10800,Asia/Riyadh,Arabian Standard Time
+Dakar,Senegal,Africa,-17.4676861,14.716677,0,0,Africa/Dakar,Greenwich Mean Time
+Belgrade,Serbia,Europe,20.46123,44.8125449,3600,3600,Europe/Belgrade,Central European Summer Time
+Victoria,Seychelles,Africa,55.4522153,-4.621129799999999,0,14400,Indian/Mahe,Seychelles Time
+Freetown,Sierra Leone,Africa,-13.2354918,8.487080299999999,0,0,Africa/Freetown,Greenwich Mean Time
+Singapore,Singapore,Asia,103.819836,1.352083,0,28800,Asia/Singapore,Singapore Standard Time
+Bratislava,Slovakia,Europe,17.1077477,48.1485965,3600,3600,Europe/Bratislava,Central European Summer Time
+Ljubljana,Slovenia,Europe,14.5057515,46.0569465,3600,3600,Europe/Ljubljana,Central European Summer Time
+Honiara,Solomon Islands,Oceania,159.9526758,-9.4306698,0,39600,Pacific/Guadalcanal,Solomon Islands Time
+Mogadishu,Somalia,Africa,45.3379067,2.037148,0,10800,Africa/Mogadishu,East Africa Time
+Pretoria,South Africa,Africa,28.1913815,-25.7565723,0,7200,Africa/Johannesburg,South Africa Standard Time
+Juba,South Sudan,Africa,31.58252539999999,4.853856599999999,0,7200,Africa/Juba,Central Africa Time
+Madrid,Spain,Europe,-3.7037902,40.4167754,3600,3600,Europe/Madrid,Central European Summer Time
+Sri Jayawardenapura Kotte,Sri Lanka,Asia,79.9187142,6.8867616,0,19800,Asia/Colombo,India Standard Time
+Khartoum,Sudan,Africa,32.535587,15.597431,0,7200,Africa/Khartoum,Central Africa Time
+Paramaribo,Suriname,America,-55.2038278,5.8520355,0,-10800,America/Paramaribo,Suriname Time
+Mbabane,Swaziland,Africa,31.1441558,-26.3263561,0,7200,Africa/Mbabane,South Africa Standard Time
+Stockholm,Sweden,Europe,18.0685808,59.32932349999999,3600,3600,Europe/Stockholm,Central European Summer Time
+Bern,Switzerland,Europe,7.4474468,46.9479739,3600,3600,Europe/Zurich,Central European Summer Time
+Damascus,Syria,Asia,36.2768193,33.5132192,0,10800,Asia/Damascus,GMT+03:00
+Taipei,Taiwan,Asia,121.5654177,25.0329694,0,28800,Asia/Taipei,Taipei Standard Time
+Dushanbe,Tajikistan,Asia,68.7870384,38.5597722,0,18000,Asia/Dushanbe,Tajikistan Time
+Dodoma,Tanzania,Africa,35.746877,-6.1811245,0,10800,Africa/Dar_es_Salaam,East Africa Time
+Bangkok,Thailand,Asia,100.5017651,13.7563309,0,25200,Asia/Bangkok,Indochina Time
+Lomé,Togo,Africa,1.2196502,6.129557699999999,0,0,Africa/Lome,Greenwich Mean Time
+Nukualofa,Tonga,Oceania,-175.2004858,-21.1343065,0,46800,Pacific/Tongatapu,Tonga Standard Time
+Port of Spain,Trinidad and Tobago,America,-61.5086355,10.6603435,0,-14400,America/Port_of_Spain,Atlantic Standard Time
+Tunis,Tunisia,Africa,10.1815316,36.8064948,0,3600,Africa/Tunis,Central European Standard Time
+Ankara,Turkey,Asia,32.8597419,39.9333635,0,10800,Europe/Istanbul,GMT+03:00
+Ashgabat,Turkmenistan,Asia,58.32606289999999,37.9600766,0,18000,Asia/Ashgabat,Turkmenistan Standard Time
+Funafuti,Tuvalu,Oceania,179.1961926,-8.5211471,0,43200,Pacific/Funafuti,Tuvalu Time
+Kampala,Uganda,Africa,32.5816313,0.3151692,0,10800,Africa/Kampala,East Africa Time
+Kiev,Ukraine,Europe,30.5245025,50.4503596,3600,7200,Europe/Kiev,Eastern European Summer Time
+Abu Dhabi,United Arab Emirates,Asia,54.3773438,24.453884,0,14400,Asia/Dubai,Gulf Standard Time
+London,United Kingdom,Europe,-0.1275862,51.5072178,3600,0,Europe/London,British Summer Time
+Washington D.C.,United States,America,-77.0368707,38.9071923,3600,-18000,America/New_York,Eastern Daylight Time
+Montevideo,Uruguay,America,-56.1851147,-34.9055016,0,-10800,America/Montevideo,Uruguay Standard Time
+Tashkent,Uzbekistan,Asia,69.2400734,41.2994958,0,18000,Asia/Samarkand,Uzbekistan Standard Time
+Port Vila,Vanuatu,Oceania,168.3173027,-17.742979,0,39600,Pacific/Efate,Vanuatu Standard Time
+Vatican City,Vatican City,Europe,12.4536007,41.9021788,3600,3600,Europe/Rome,Central European Summer Time
+Caracas,Venezuela,America,-66.90360629999999,10.4805937,0,-14400,America/Caracas,Venezuela Time
+Hanoi,Vietnam,Asia,105.8341598,21.0277644,0,25200,Asia/Saigon,Indochina Time
+Sana'a,Yemen,Asia,44.2064003,15.3545381,0,10800,Asia/Aden,Arabian Standard Time
+Lusaka,Zambia,Africa,28.2773267,-15.4154677,0,7200,Africa/Lusaka,Central Africa Time
+Harare,Zimbabwe,Africa,31.0503723,-17.8262928,0,7200,Africa/Harare,Central Africa Time
+Recife,Brazil,America,-34.8828969,-8.0578381,0,-10800,America/Recife,Brasilia Standard Time
+Auckland,New Zealand,Oceania,174.7644881,-36.85088270000001,0,43200,Pacific/Auckland,New Zealand Standard Time
+Herrera del Duque,Spain,Europe,-5.050761200000001,39.1686078,3600,3600,Europe/Madrid,Central European Summer Time
+Zamora,Spain,Europe,-5.7467879,41.5034712,3600,3600,Europe/Madrid,Central European Summer Time
+La Coruña,Spain,Europe,-8.4115401,43.3623436,3600,3600,Europe/Madrid,Central European Summer Time
+Barcelona,Spain,Europe,2.168568,41.3873974,3600,3600,Europe/Madrid,Central European Summer Time
+Ceuta,Spain,Africa,-5.3213455,35.8893874,3600,3600,Europe/Madrid,Central European Summer Time
+Melilla,Spain,Africa,-2.9525632,35.2942651,3600,3600,Europe/Madrid,Central European Summer Time
+Almendralejo,Spain,Europe,-6.4058423,38.6914575,3600,3600,Europe/Madrid,Central European Summer Time
+Tres Cantos,Spain,Europe,-3.7079745,40.600727,3600,3600,Europe/Madrid,Central European Summer Time
+Javea,Spain,Europe,0.1660813,38.7890109,3600,3600,Europe/Madrid,Central European Summer Time
+Palma de Mallorca,Spain,Europe,2.6501603,39.5696005,3600,3600,Europe/Madrid,Central European Summer Time
+Bilbao,Spain,Europe,-2.9349852,43.2630126,3600,3600,Europe/Madrid,Central European Summer Time
+Seville,Spain,Europe,-5.9844589,37.3890924,3600,3600,Europe/Madrid,Central European Summer Time
+Pontevedra,Spain,Europe,-8.6446202,42.4298846,3600,3600,Europe/Madrid,Central European Summer Time
+Pozuelo de Alarcon,Spain,Europe,-3.8074152,40.4475272,3600,3600,Europe/Madrid,Central European Summer Time
+Las Rozas,Spain,Europe,-3.8757916,40.4935329,3600,3600,Europe/Madrid,Central European Summer Time
+Tel Aviv,Israel,Asia,34.78176759999999,32.0852999,3600,7200,Asia/Jerusalem,Israel Daylight Time
