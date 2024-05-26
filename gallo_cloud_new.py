@@ -142,18 +142,19 @@ class Gallo:
             print (f"{city.name}: amanece a las {sol['sunrise'].strftime('%H:%M')}/{sol['sunrise'].astimezone(timezone(self.ciudades.loc[i,'timeZoneId'])).strftime('%H:%M')}@{calendar.timegm(sol['sunrise'].timetuple())}, anochece a las {sol['sunset'].strftime('%H:%M')}@{calendar.timegm(sol['sunset'].timetuple())}")
             if sol['sunrise']>datetime.now(timezone('UTC')):
                 self.s.enterabs(calendar.timegm(sol['sunrise'].timetuple()),1,self.accion,kwargs={'ciudad':city.name,'que':'amanece','hora':sol['sunrise']})
-                print(f"Añadida nueva hora amanecer: {sol['sunrise'].astimezone(timezone(self.ciudades.loc[city.name,'timeZoneId'])).strftime('%H:%M')}")
+                print(f"Añadida nueva hora amanecer: {sol['sunrise'].strftime('%d-%B %H:%M')}")
             else:
                 sol = sun(city.observer, date=hoy+timedelta(days=1))
                 self.s.enterabs(calendar.timegm(sol['sunrise'].timetuple()),1,self.accion,kwargs={'ciudad':city.name,'que':'amanece','hora':sol['sunrise']})
-                print(f"Añadida nueva hora amanecer:{sol['sunrise'].astimezone(timezone(self.ciudades.loc[city.name,'timeZoneId'])).strftime('%H:%M')}")
+                print(f"Añadida nueva hora amanecer:{sol['sunrise'].strftime('%d-%B %H:%M')}")
+            sol = sun(city.observer, date=hoy)
             if sol['sunset']>datetime.now(timezone('UTC')):
                 self.s.enterabs(calendar.timegm(sol['sunset'].timetuple()),1,self.accion,kwargs={'ciudad':city.name,'que':'anochece','hora':sol['sunset']})
-                print(f"Añadida nueva hora anochecer: {sol['sunset'].astimezone(timezone(self.ciudades.loc[city.name,'timeZoneId'])).strftime('%H:%M')}")
+                print(f"Añadida nueva hora anochecer: {sol['sunset'].strftime('%d-%B %H:%M')}")
             else:
                 sol = sun(city.observer, date=hoy+timedelta(days=1))
                 self.s.enterabs(calendar.timegm(sol['sunset'].timetuple()),1,self.accion,kwargs={'ciudad':city.name,'que':'anochece','hora':sol['sunset']})
-                print(f"Añadida nueva hora anochecer: {sol['sunset'].astimezone(timezone(self.ciudades.loc[city.name,'timeZoneId'])).strftime('%H:%M')}")
+                print(f"Añadida nueva hora anochecer: {sol['sunset'].strftime('%d-%B %H:%M')}")
         
             
                
