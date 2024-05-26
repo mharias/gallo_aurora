@@ -158,6 +158,26 @@ class Gallo:
             
                
         return
+        
+    def accion(self,ciudad='Madrid',que='amanece',hora=''):
+        city = LocationInfo(ciudad, self.ciudades.loc[ciudad,'Pais'], self.ciudades.loc[ciudad,'timeZoneId'], self.ciudades.loc[ciudad,'latitud'], self.ciudades.loc[ciudad,'longitud'])
+        mañana = datetime.now(timezone('UTC'))+timedelta(days=1)
+        sol = sun(city.observer, date=mañana)
+        #map = Basemap(llcrnrlon=-160, llcrnrlat=-75,urcrnrlon=160,urcrnrlat=80,projection='mill',lon_0=0)
+        path = self.mapa(ciudad,self.path_proyecto)
+        print (path)
+        if que=='amanece':
+            print (f"Sunrising at {ciudad}. It´s {hora.astimezone(timezone(self.ciudades.loc[ciudad,'timeZoneId'])).strftime('%H:%M')} LocalTime")
+            nueva_hora = sol['sunrise']
+            self.s.enterabs(calendar.timegm(sol['sunrise'].timetuple()),1,self.accion,kwargs={'ciudad':ciudad,'que':que,'hora':sol['sunrise']})
+            print(f"Añadida nueva hora amanecer: {sol['sunrise'].astimezone(timezone(self.ciudades.loc[ciudad,'timeZoneId'])).strftime('%H:%M')}")
+            self.enviar_tweet('amanece',ciudad,hora,nueva_hora,path)
+        if que=='anochece':
+            print (f"Sunseting at {ciudad}. It´s {hora.astimezone(timezone(self.ciudades.loc[ciudad,'timeZoneId'])).strftime('%H:%M')} LocalTime")
+            nueva_hora = sol['sunset']
+            self.s.enterabs(calendar.timegm(sol['sunset'].timetuple()),1,self.accion,kwargs={'ciudad':ciudad,'que':que,'hora':sol['sunset']})
+            print(f"Añadida nueva hora anochecer:{sol['sunset'].astimezone(timezone(self.ciudades.loc[ciudad,'timeZoneId'])).strftime('%H:%M')}")
+            self.enviar_tweet('anochece',ciudad,hora,nueva_hora,path)
 
 
 if __name__ == "__main__":
